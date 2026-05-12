@@ -1,0 +1,42 @@
+{
+  "businessName": "RINDADI ENTERPRISE",
+  "industry": "Manufacturing",
+  "tone": "professional and confident",
+  "tagline": "Excellence in Manufacturing, Trusted in Jos",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "RINDADI ENTERPRISE\n\nYour Trusted Manufacturing Partner in Jos\n\nQuality manufacturing solutions built on precision, reliability, and excellence. Serving businesses across Plateau State and beyond with commitment to superior production standards.",
+      "imagePrompt": "Modern industrial manufacturing facility in Jos, Nigeria, with clean production floor, organized machinery, workers in safety gear, bright natural lighting through large windows, professional industrial environment, sharp focus, photorealistic, daytime exterior showing factory building with Nigerian landscape",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Who We Are\n\nRINDADI ENTERPRISE is a premier manufacturing company based in Jos North, Plateau State. Located at No10B Fudawa Village, Bauchi Ring Road, we combine modern production techniques with uncompromising quality standards.\n\nOur facility is equipped to handle diverse manufacturing needs, delivering products that meet both local and international quality benchmarks. We pride ourselves on operational excellence, timely delivery, and building lasting partnerships with our clients.\n\nWith deep roots in the Jos community, we understand the unique needs of Nigerian businesses and are committed to supporting industrial growth across the region.",
+      "imagePrompt": "Wide shot of organized Nigerian manufacturing workshop, raw materials neatly arranged, quality control stations, workers collaborating, clean industrial setting in Jos, natural lighting, professional atmosphere, photorealistic detail",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Manufacturing Solutions\n\nCustom Manufacturing\nTailored production services designed to meet your specific requirements. From prototype to full-scale production, we deliver precision and quality.\n\nQuality Control\nRigorous testing and quality assurance processes ensure every product meets the highest standards before delivery.\n\nProduct Development\nCollaborative approach to bringing your manufacturing concepts to reality. We work closely with clients from design through production.\n\nLogistics Support\nReliable distribution and delivery services across Plateau State and neighboring regions, ensuring your products reach their destination safely and on time.",
+      "imagePrompt": "Collage of manufacturing processes: precision machinery in operation, quality inspector examining products with measuring tools, factory floor with organized production lines, delivery truck being loaded, Nigerian industrial setting, professional photography, bright and clean",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Get In Touch\n\nReady to discuss your manufacturing needs? Our team is here to provide expert guidance and competitive solutions.\n\nVisit Us:\nNo10B Fudawa Village\nBauchi Ring Road\nJos North LGA\nPlateau State, Nigeria\n\nCall Us:\n0803 260 8546\n\nBusiness Hours:\nMonday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM\n\nWhether you need a quote, want to tour our facility, or have questions about our manufacturing capabilities, we're ready to assist you.",
+      "imagePrompt": "Professional Nigerian business reception area or office, welcoming front desk, industrial-modern decor, RINDADI ENTERPRISE branding visible, clean and organized space, natural light, approachable atmosphere, photorealistic",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "0803 260 8546",
+    "email": "",
+    "address": "No10B Fudawa Village, Bauchi Ring Road, Jos North LGA, Plateau State, Nigeria",
+    "whatsapp": "https://wa.me/2348032608546"
+  }
+}
